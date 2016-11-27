@@ -1,0 +1,15 @@
+### runtime.txt ###
+python-3.5.2
+
+
+### requirements.txt ###
+html5lib==0.999999999
+beautifulsoup4==4.5.1
+bs4==0.0.1
+pyTelegramBotAPI==2.1.7
+requests==2.12.1
+datetime==4.1.1
+telebot==0.0.3
+
+### Procfile ###
+web: python3 bot.api
